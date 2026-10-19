@@ -1,0 +1,25 @@
+﻿# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.log
+*~
+
+# Cache Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
